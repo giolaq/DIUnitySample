@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: b6deb6be18d124108aafcf034b06e1b2
+timeCreated: 1507834574
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: blackball
+    100002: group_0
+    100004: group_1
+    100006: group_2
+    100008: group_3
+    100010: group_4
+    100012: group_5
+    100014: group_6
+    100016: ID109
+    100018: ID119
+    100020: ID129
+    100022: ID139
+    100024: ID167
+    100026: ID177
+    100028: ID187
+    100030: ID197
+    100032: ID207
+    100034: ID21
+    100036: ID228
+    100038: ID238
+    100040: ID248
+    100042: ID278
+    100044: ID288
+    100046: ID298
+    100048: ID308
+    100050: ID31
+    100052: ID323
+    100054: ID346
+    100056: ID354
+    100058: ID380
+    100060: ID41
+    100062: ID456
+    100064: ID464
+    100066: ID472
+    100068: ID480
+    100070: ID51
+    100072: ID61
+    100074: ID71
+    100076: ID99
+    100078: instance_0
+    100080: instance_1
+    100082: instance_10
+    100084: instance_11
+    100086: instance_12
+    100088: instance_13
+    100090: instance_14
+    100092: instance_15
+    100094: instance_2
+    100096: instance_3
+    100098: instance_4
+    100100: instance_5
+    100102: instance_6
+    100104: instance_7
+    100106: instance_8
+    100108: instance_9
+    100110: //RootNode
+    100112: redball
+    100114: redball 1
+    100116: redball 2
+    100118: redball 3
+    100120: redball 4
+    100122: redball 5
+    100124: redball 6
+    100126: skp_camera_Last_Saved_SketchUp_View
+    100128: yellowball
+    100130: yellowball 1
+    100132: yellowball 2
+    100134: yellowball 3
+    100136: yellowball 4
+    100138: yellowball 5
+    100140: yellowball 6
+    100142: yellowball_1
+    400000: blackball
+    400002: group_0
+    400004: group_1
+    400006: group_2
+    400008: group_3
+    400010: group_4
+    400012: group_5
+    400014: group_6
+    400016: ID109
+    400018: ID119
+    400020: ID129
+    400022: ID139
+    400024: ID167
+    400026: ID177
+    400028: ID187
+    400030: ID197
+    400032: ID207
+    400034: ID21
+    400036: ID228
+    400038: ID238
+    400040: ID248
+    400042: ID278
+    400044: ID288
+    400046: ID298
+    400048: ID308
+    400050: ID31
+    400052: ID323
+    400054: ID346
+    400056: ID354
+    400058: ID380
+    400060: ID41
+    400062: ID456
+    400064: ID464
+    400066: ID472
+    400068: ID480
+    400070: ID51
+    400072: ID61
+    400074: ID71
+    400076: ID99
+    400078: instance_0
+    400080: instance_1
+    400082: instance_10
+    400084: instance_11
+    400086: instance_12
+    400088: instance_13
+    400090: instance_14
+    400092: instance_15
+    400094: instance_2
+    400096: instance_3
+    400098: instance_4
+    400100: instance_5
+    400102: instance_6
+    400104: instance_7
+    400106: instance_8
+    400108: instance_9
+    400110: //RootNode
+    400112: redball
+    400114: redball 1
+    400116: redball 2
+    400118: redball 3
+    400120: redball 4
+    400122: redball 5
+    400124: redball 6
+    400126: skp_camera_Last_Saved_SketchUp_View
+    400128: yellowball
+    400130: yellowball 1
+    400132: yellowball 2
+    400134: yellowball 3
+    400136: yellowball 4
+    400138: yellowball 5
+    400140: yellowball 6
+    400142: yellowball_1
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: blackball
+    2300002: group_0
+    2300004: group_1
+    2300006: group_2
+    2300008: group_3
+    2300010: group_4
+    2300012: group_5
+    2300014: group_6
+    2300016: ID109
+    2300018: ID119
+    2300020: ID129
+    2300022: ID139
+    2300024: ID167
+    2300026: ID177
+    2300028: ID187
+    2300030: ID197
+    2300032: ID207
+    2300034: ID21
+    2300036: ID228
+    2300038: ID238
+    2300040: ID248
+    2300042: ID278
+    2300044: ID288
+    2300046: ID298
+    2300048: ID308
+    2300050: ID31
+    2300052: ID323
+    2300054: ID346
+    2300056: ID354
+    2300058: ID380
+    2300060: ID41
+    2300062: ID456
+    2300064: ID464
+    2300066: ID472
+    2300068: ID480
+    2300070: ID51
+    2300072: ID61
+    2300074: ID71
+    2300076: ID99
+    2300078: //RootNode
+    2300080: redball
+    2300082: redball 1
+    2300084: redball 2
+    2300086: redball 3
+    2300088: redball 4
+    2300090: redball 5
+    2300092: redball 6
+    2300094: yellowball
+    2300096: yellowball 1
+    2300098: yellowball 2
+    2300100: yellowball 3
+    2300102: yellowball 4
+    2300104: yellowball 5
+    2300106: yellowball 6
+    2300108: yellowball_1
+    3300000: blackball
+    3300002: group_0
+    3300004: group_1
+    3300006: group_2
+    3300008: group_3
+    3300010: group_4
+    3300012: group_5
+    3300014: group_6
+    3300016: ID109
+    3300018: ID119
+    3300020: ID129
+    3300022: ID139
+    3300024: ID167
+    3300026: ID177
+    3300028: ID187
+    3300030: ID197
+    3300032: ID207
+    3300034: ID21
+    3300036: ID228
+    3300038: ID238
+    3300040: ID248
+    3300042: ID278
+    3300044: ID288
+    3300046: ID298
+    3300048: ID308
+    3300050: ID31
+    3300052: ID323
+    3300054: ID346
+    3300056: ID354
+    3300058: ID380
+    3300060: ID41
+    3300062: ID456
+    3300064: ID464
+    3300066: ID472
+    3300068: ID480
+    3300070: ID51
+    3300072: ID61
+    3300074: ID71
+    3300076: ID99
+    3300078: //RootNode
+    3300080: redball
+    3300082: redball 1
+    3300084: redball 2
+    3300086: redball 3
+    3300088: redball 4
+    3300090: redball 5
+    3300092: redball 6
+    3300094: yellowball
+    3300096: yellowball 1
+    3300098: yellowball 2
+    3300100: yellowball 3
+    3300102: yellowball 4
+    3300104: yellowball 5
+    3300106: yellowball 6
+    3300108: yellowball_1
+    4300000: SketchUp
+    4300002: ID456
+    4300004: ID464
+    4300006: ID472
+    4300008: ID480
+    4300010: group_0
+    4300012: ID21
+    4300014: ID31
+    4300016: ID41
+    4300018: ID51
+    4300020: ID61
+    4300022: ID71
+    4300024: group_1
+    4300026: ID99
+    4300028: ID109
+    4300030: ID119
+    4300032: ID129
+    4300034: ID139
+    4300036: group_2
+    4300038: ID167
+    4300040: ID177
+    4300042: ID187
+    4300044: ID197
+    4300046: ID207
+    4300048: group_3
+    4300050: ID228
+    4300052: ID238
+    4300054: ID248
+    4300056: group_4
+    4300058: ID278
+    4300060: ID288
+    4300062: ID298
+    4300064: ID308
+    4300066: ID323
+    4300068: group_5
+    4300070: ID346
+    4300072: ID354
+    4300074: group_6
+    4300076: ID380
+    4300078: redball
+    4300080: yellowball
+    4300082: blackball
+    4300084: yellowball_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
